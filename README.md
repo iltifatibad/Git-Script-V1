@@ -25,5 +25,3 @@ How can I deal with this if I don't enter everything correctly?
 Open you File Manager and go /home/UserName/documents/GitScriptLogs.txt and edit it.
 
 Yes, I know, this code is the monument of unemployment :DDD
-
-If you run into any other problems, you can reach me on Discord : PISIGMA#6091
